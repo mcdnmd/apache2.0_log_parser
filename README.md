@@ -5,7 +5,7 @@
 This script is required to parse and create statistics based on Apache web-server logs. Written on pure Python 3 without side libraries
 
 ### Following stats are released
-  - Fatest page
+  - Fastest page
   - Most active client (ip)
   - Most active client by day (dict {day : ip})
   - Most popular browser
